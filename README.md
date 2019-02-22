@@ -1,3 +1,3 @@
 # Portable-FTP-Server
 
-![Preview](previews/preview.png)
+![Preview](preview.png)
