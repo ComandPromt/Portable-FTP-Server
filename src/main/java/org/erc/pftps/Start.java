@@ -47,7 +47,7 @@ public class Start {
 						MainWindow window = new MainWindow();
 						window.setVisible(true);
 					} catch (Exception e) {
-						//log.error(e);
+						//
 					}
 		        }
 	        });
